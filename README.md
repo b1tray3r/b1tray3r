@@ -11,8 +11,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/b1tray3r/b1tray3r/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
