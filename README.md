@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b1tray3r&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true" alt="b1tray3r" /></a> </p>
 
-- 🔭 I’m currently working on [A time tracking tool, my homelab and my personal blog.](https://github.com/b1tray3r/alexander.boragardt.me)
+- 🔭 I’m currently working on a personal time tracking service.
 
 - 🌱 I’m currently learning **Golang, HTMX**
 
